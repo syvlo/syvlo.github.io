@@ -1,24 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://u-paris.fr'>Université de Paris</a>, <a href='http://lipade.mi.parisdescartes.fr'>LIPADE</a> laboratory, <a href='http://w3.mi.parisdescartes.fr/sip-lab/'>SIP</a> team.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bureau 812H</p>
+    <p>45, rue des Saints-Pères</p>
+    <p>75006 Paris France</p>
+    <p>Email: firstname.lastname@u-paris.fr</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an assistant professor (Maître de conférences) in Computer Science. I do research at the [SIP team](http://w3.mi.parisdescartes.fr/sip-lab/) of the [LIPADE](http://lipade.mi.parisdescartes.fr) laboratory and teach at <a href="https://math-info.u-paris.fr">UFR de Mathématiques et Informatique</a> in [Université de Paris](https://u-paris.fr). Before, I was a postdoctoral researcher at [Wageningen University & Research](https://www.wur.nl) in the [Laboratory of Geo-information Science and Remote Sensing](https://www.wur.nl/en/Research-Results/Chair-groups/Environmental-Sciences/Laboratory-of-Geo-information-Science-and-Remote-Sensing.htm). I obtained my PhD in image processing from [Télécom Paris](https://www.telecom-paris.fr) in 2017. This work was done in collaboration with [CNES](https://www.cnes.fr).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests are in the areas of methodological developments in image processing with applications in particular to remote sensing imagery. This includes high-resolution optical images processing using deep learning techniques and change detection, classification and regularization on multi-temporal series of SAR images using Markov Random Fields models. During my PhD, I was working on the SWOT mission, dedicated to the study of the world’s oceans and its terrestrial surface waters.
