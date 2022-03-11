@@ -21,6 +21,7 @@ Defended on November 16th, 2017 at Télécom Paris in front of the jury:
 
 ## Downloads
 - [Manuscript](/assets/pdf/Manuscrit_These.pdf) (55 MB)
+- [Slides](/assets/pdf/Soutenance_These.pdf) (99 MB)
 
 ## Abstract
 To obtain a better coverage both spatially and temporally, hydrologists use spaceborne data in addition to data acquired in situ. Resulting from a collaboration between NASA’s Jet Propulsion Laboratory (JPL) and the French Space Agency (CNES), the upcoming SWOT mission will provide global continental water elevation measures using Synthetic Aperture Radar (SAR) interferometry. In this dissertation, we address the problem of water detection in SWOT amplitude images, which is to be performed before the interferometric processing.
