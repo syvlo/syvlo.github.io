@@ -8,7 +8,7 @@ nav: true
 
 ## Current classes
 
-#### Université de Paris
+#### Université Paris Cité
 At <a href="https://math-info.u-paris.fr">UFR de Mathématiques et Informatique</a>
 
 - IFLCM070 Aide à la décision (since 2020)
@@ -33,7 +33,7 @@ At <a href="https://math-info.u-paris.fr">UFR de Mathématiques et Informatique<
 	- Activity: Following students (2\*8h)
 
 ## Past classes
-#### Université de Paris
+#### Université Paris Cité
 At <a href="https://math-info.u-paris.fr">UFR de Mathématiques et Informatique</a>
 
 - IF05X040 Algorithmique avancée (2020)

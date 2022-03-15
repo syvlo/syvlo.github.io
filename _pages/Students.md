@@ -10,14 +10,13 @@ I supervise(d) the following students:
 ## PhD students
 - Basile Rousse (01/12/2021 - Today)
 	* Topic: Prediction of demographic indicators from remote sensing images
-	* University: Université de Paris
+	* University: Université Paris Cité
 	* Funding: Data Intelligence Institute of Paris (diiP)
 	* Supervisors: Laurent Wendling (co-director), Valérie Golaz (INED, co-director), Géraldine Duthé (INED), Sylvain Lobry
 - Rebecca Leygonie (01/10/2021 - Today)
 	* Topic: Transposition de données de gestion à grande échelle vers des images structurées pour l’application de réseaux de neurones convolutifs.
-	* University: Université de Paris
-	* Funding: French Ministry of Armies
-	* Supervisors: Laurent Wendling (director), Guillaume Vimont (Ministry), Sylvain Lobry
+	* University: Université Paris Cité
+	* Supervisors: Laurent Wendling (director), Guillaume Vimont, Sylvain Lobry
 - Christel Chappuis (01/12/2020 - Today)
 	* Topic: What temporal method for natural language interactions with Earth observation data can help monitor environmental changes?
 	* University: EPFL
@@ -34,12 +33,12 @@ I supervise(d) the following students:
 ## MSc students
 - Lys Thay (2021)
 	* Topic: Production automatique d’indicateurs environnementaux à partir de données de télédétection
-	* University: Université de Paris
+	* University: Université Paris Cité
 	* Funding: Data Intelligence Institute of Paris (diiP)
 	* Supervisors: Sylvain Lobry, Laurent Wendling, Valérie Golaz (INED), Géraldine Duthé (INED)
 - Maxime Faure (2021)
 	* Topic: Intégration d’une méthode d’évaluation de relations spatiales à un modèle de Visual Question Answering appliqué àdes images de télédétection
-	* University: Université de Paris
+	* University: Université Paris Cité
 	* Supervisors: Sylvain Lobry, Camille Kurtz, Laurent Wendling
 - Luigi Greselin (2020)
 	* Topic: Multi-object counting Neural Network: a proposal for remotely sensed imagery
