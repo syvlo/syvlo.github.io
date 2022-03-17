@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join us at PRRS Workshop 2022!
-date: 2021-12-05 12:00:00-0400
+date: 2022-03-17 12:00:00-0400
 inline: false
 ---
 
