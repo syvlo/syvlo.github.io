@@ -30,7 +30,7 @@ At <a href="https://math-info.u-paris.fr">UFR de Mathématiques et Informatique<
 - IF06M030 Projects (since 2020)
 	- Level: Licence 3 (BSc)
 	- Topics: Software projects
-	- Activity: Following students (2\*8h)
+	- Activity: Students' supervision (2 \* 8h)
 
 ## Past classes
 #### Université Paris Cité
