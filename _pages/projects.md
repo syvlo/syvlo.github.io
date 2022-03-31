@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Ongoing and past projects
+description: 
 nav: true
 display_categories: [Ongoing, Past]
 horizontal: false
