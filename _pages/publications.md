@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description:
 years_journal: [2021, 2020, 2019, 2018, 2016]
-years_intconf: [2021, 2020, 2019, 2018, 2017, 2016, 2015]
+years_intconf: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 years_natconf: [2021, 2017, 2016]
 nav: true
 nav_order: 1
