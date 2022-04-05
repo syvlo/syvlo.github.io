@@ -31,6 +31,11 @@ I supervise(d) the following students:
 <br>
 
 ## MSc students
+- Anton Emelchenkov (2022)
+	* Topic: Text and remote sensing images interactions
+	* University: Université Paris Cité
+	* Funding: French National Research Agency (ANR)
+	* Supervisors: Sylvain Lobry, Camille Kurtz, Laurent Wendling
 - Lys Thay (2021)
 	* Topic: Production automatique d’indicateurs environnementaux à partir de données de télédétection
 	* University: Université Paris Cité
