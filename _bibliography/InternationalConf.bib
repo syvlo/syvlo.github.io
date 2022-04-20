@@ -1,10 +1,19 @@
 ---
 ---
 
+@inproceedings{Chappuis2022Prompting,
+  title={Prompt–RSVQA: Prompting visual context to a language model for Remote Sensing Visual Question Answering},
+  author={Chappuis, Chritel and Zermatten, Valerie and Lobry, Sylvain and Le Saux, Bertrand and Tuia, Devis},
+  booktitle={EarthVision at IEEE/CVF Conference on Computer Vision and Pattern Recognition CVPR},
+  year={2022},
+  abstract={Remote sensing visual question answering (RSVQA) was recently proposed with the aim of interfacing natural language and vision to ease the access of information contained in Earth Observation data for a wide audience, which is granted by simple questions in natural language. The traditional vision/language interface is an embedding obtained by fusing features from two deep models, one processing the image and another the question. Despite the success of early VQA models, it remains difficult to control the adequacy of the visual information extracted by its deep model, which should act as a context regularizing the work of the language model. We propose to extract this context information with a visual model, convert it to text and inject it, i.e. prompt it, into a language model. The language model is therefore responsible to process the question with the visual context, and extract features, which are useful to find the answer. We study the effect of prompting with respect to a black-box visual extractor and discuss the importance of training a visual model producing accurate context.},
+  bibtex_show={true}
+}
+
 @inproceedings{Faure2022Embedding,
   title={Embedding Spatial Relations in Visual Question Answering for Remote Sensing},
   author={Faure, Maxime and Lobry, Sylvain and Kurtz, Camille and Wendling, Laurent},
-  booktitle={26TH International Conference on Pattern Recognition},
+  booktitle={26TH International Conference on Pattern Recognition ICPR},
   year={2022},
   abstract={Remote sensing images carry a wealth of information that is not easily accessible to end-users as it requires strong technical skills and knowledge. 
 Visual Question Answering (VQA), a task that aims at answering an open-ended question in natural language from an image, can provide an easier access to this information. Considering the geographical information contained in remote sensing images, questions often embed an important spatial aspect, for instance regarding the relative position of two objects. Our objective is to better model the spatial relations in the construction of a ground-truth database of image/question/answer triplets and to assess the capacity a VQA model has to answer these questions. In this article, we propose to use histograms of forces to model the directional spatial relations between geo-localized objects. This allows a finer modeling of ambiguous relationships between objects and to provide different levels of assessment of a relation (e.g. object A is slightly/strictly to the west of object B).  Using this new dataset, we evaluate the performances of a classical VQA model and propose a curriculum learning strategy to better take into account the varying difficulty of questions embedding spatial relations.  With this approach, we show an improvement in the performances of our model, highlighting the interest of embedding spatial relations in VQA for remote sensing applications.},
