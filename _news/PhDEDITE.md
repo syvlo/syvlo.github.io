@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New PhD positions!
+title: New PhD positions
 date: 2022-04-25 12:00:00-0400
 inline: false
 ---
