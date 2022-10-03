@@ -8,6 +8,16 @@ nav: true
 I supervise(d) the following students:
 
 ## PhD students
+- Lucrezia Tosato (01/10/2022 - Today)
+	* Topic: Multilevel fusion for remote sensing visual question answering.
+	* University: Université Paris Cité
+	* Funding: Doctoral school EDITE
+	* Supervisors: Laurent Wendling (director), Flora Weissgerber, Sylvain Lobry
+- Mathias Montignoux (01/10/2022 - Today)
+	* Topic: Time series fusion of optical and radar remote sensing images of different resolution for monitoring snow cover and deforestation.
+	* University: Centrale Nantes
+	* Funding: Région Pays de la Loire / ONERA
+	* Supervisors: Jérôme Idier (director), Flora Weissgerber, Sylvain Lobry
 - Basile Rousse (01/12/2021 - Today)
 	* Topic: Prediction of demographic indicators from remote sensing images
 	* University: Université Paris Cité
