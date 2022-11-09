@@ -18,7 +18,7 @@ I supervise(d) the following students:
 	* University: Centrale Nantes
 	* Funding: Région Pays de la Loire / ONERA
 	* Supervisors: Jérôme Idier (director), Flora Weissgerber, Sylvain Lobry
-- Basile Rousse (01/12/2021 - Today)
+- [Basile Rousse](https://basiler.github.io) (01/12/2021 - Today)
 	* Topic: Prediction of demographic indicators from remote sensing images
 	* University: Université Paris Cité
 	* Funding: Data Intelligence Institute of Paris (diiP)
