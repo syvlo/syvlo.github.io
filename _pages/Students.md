@@ -13,7 +13,7 @@ I supervise(d) the following students:
 	* University: Université Paris Cité
 	* Funding: Doctoral school EDITE
 	* Supervisors: Laurent Wendling (director), Flora Weissgerber, Sylvain Lobry
-- Mathias Montignoux (01/10/2022 - Today)
+- Mathias Montginoux (01/10/2022 - Today)
 	* Topic: Time series fusion of optical and radar remote sensing images of different resolution for monitoring snow cover and deforestation.
 	* University: Centrale Nantes
 	* Funding: Région Pays de la Loire / ONERA
@@ -27,7 +27,7 @@ I supervise(d) the following students:
 	* Topic: Transposition de données de gestion à grande échelle vers des images structurées pour l’application de réseaux de neurones convolutifs.
 	* University: Université Paris Cité
 	* Supervisors: Laurent Wendling (director), Guillaume Vimont, Sylvain Lobry
-- Christel Chappuis (01/12/2020 - Today)
+- [Christel Chappuis](https://people.epfl.ch/christel.chappuis?lang=en) (01/12/2020 - Today)
 	* Topic: What temporal method for natural language interactions with Earth observation data can help monitor environmental changes?
 	* University: EPFL
 	* Funding: EPFL, ESA
