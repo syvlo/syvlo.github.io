@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subsribe to the IAPR TC7 Newsletter
-date: 2022-03-04 12:00:00-0400
+date: 2023-01-01 12:00:00-0400
 inline: false
 ---
 
