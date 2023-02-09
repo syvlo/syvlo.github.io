@@ -41,6 +41,11 @@ I supervise(d) the following students:
 <br>
 
 ## MSc students
+- Hichem Boussaid (2023)
+	* Topic: Visual Question Answering on Remote Sensing Data
+	* University: Université Paris Cité
+	* Funding: French National Research Agency (ANR)
+	* Supervisors: Sylvain Lobry, Camille Kurtz, Laurent Wendling
 - Anton Emelchenkov (2022)
 	* Topic: Text and remote sensing images interactions
 	* University: Université Paris Cité
