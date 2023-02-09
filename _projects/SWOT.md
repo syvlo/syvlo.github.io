@@ -27,3 +27,15 @@ I also had collaborations with:
 - Manuel Grizonnet
 - Damien Desroches
 - Lucie Labat
+
+
+## Publications
+
+<div class="publications">
+<h3>International Journals</h3>
+{% bibliography -f InternationalJournals -q @*[project=SWOT]* %}
+<h3>International Conferences</h3>
+{% bibliography -f InternationalConf -q @*[project=SWOT]* %}
+<h3>National Conferences</h3>
+{% bibliography -f NationalConf -q @*[project=SWOT]* %}
+</div>
