@@ -3,7 +3,7 @@ layout: page
 title: DEMO
 description: Remote Sensing for Demographic studies (2020 - Today)
 img: assets/img/DEMO.png
-importance: 1
+importance: 3
 category: Ongoing
 ---
 
