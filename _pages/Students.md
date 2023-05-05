@@ -41,6 +41,11 @@ I supervise(d) the following students:
 <br>
 
 ## MSc students
+- Mathilde Bonin (2023)
+	* Topic: OpenStreetMap and Sentinel-2 data for the automatic production of environmental indices for demographic studies
+	* University: Université Paris Cité
+	* Funding: Data Intelligence Institute of Paris (diiP)
+	* Supervisors: Basile Rousse, Sylvain Lobry, Laurent Wendling, Valérie Golaz (INED), Géraldine Duthé (INED)
 - Hichem Boussaid (2023)
 	* Topic: Visual Question Answering on Remote Sensing Data
 	* University: Université Paris Cité
