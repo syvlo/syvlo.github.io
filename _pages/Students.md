@@ -13,11 +13,6 @@ I supervise(d) the following students:
 	* University: Université Paris Cité
 	* Funding: Doctoral school EDITE
 	* Supervisors: Laurent Wendling (director), Flora Weissgerber, Sylvain Lobry
-- Mathias Montginoux (01/10/2022 - Today)
-	* Topic: Time series fusion of optical and radar remote sensing images of different resolution for monitoring snow cover and deforestation.
-	* University: Centrale Nantes
-	* Funding: Région Pays de la Loire / ONERA
-	* Supervisors: Jérôme Idier (director), Flora Weissgerber, Sylvain Lobry
 - [Basile Rousse](https://basiler.github.io) (01/12/2021 - Today)
 	* Topic: Prediction of demographic indicators from remote sensing images
 	* University: Université Paris Cité
