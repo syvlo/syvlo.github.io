@@ -12,10 +12,10 @@ nav_order: 5
 #### Université Paris Cité
 At <a href="https://math-info.u-paris.fr">UFR de Mathématiques et Informatique</a>
 
-- IFLCM070 Aide à la décision (since 2020)
+- IFLCM070 Vision par ordinateur (since 2020)
 	- Level: Master 2 (MSc) <a href="https://math-info.u-paris.fr/master-informatique/parcours-vision-et-machine-intelligente/">VMI</a>
 	- Topics: Deep learning for classification and object detection
-	- Activity: Responsible of the module, Lecture (6h)
+	- Activity: Responsible of the module, Lecture (9h)
 - IFFAX010 Programmation avancée (since 2020)
 	- Level: Master 1 (MSc) <a href="https://math-info.u-paris.fr/master-informatique/parcours-vision-et-machine-intelligente/">VMI</a> and <a href="https://math-info.u-paris.fr/master-informatique/parcours-intelligence-artificielle-distribuee/">IAD</a>
 	- Topics: Python and C++ for programmers experienced in other languages
@@ -27,7 +27,7 @@ At <a href="https://math-info.u-paris.fr">UFR de Mathématiques et Informatique<
 - IF06X070 Image (since 2020)
 	- Level: Licence 3 (BSc)
 	- Topics: Image processing
-	- Activity: Labs (36h)
+	- Activity: Labs (36h) + Lecture (18h, since 2023)
 - IF06M030 Projects (since 2020)
 	- Level: Licence 3 (BSc)
 	- Topics: Software projects
