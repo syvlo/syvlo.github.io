@@ -48,3 +48,22 @@ I was involved in the organisation of:
 I gave the following tutorials:
 - Semantic segmentation of remote sensing images at the IADF school 2022
 - *Deep learning for remote sensing* at the Nordic Remote Sensing Conference 2019
+
+## Seminars and keynotes
+
+After 2022:
+- Maison de la Télédétection, Montpellier, France, 15/09/2023
+- EPITA research laboratory, France 25/05/2023
+- University of Zurich, Switzerland, 15/11/2022
+- French Ministry of Finances, 29/06/2022
+
+## PhD students qualifiers
+
+- Scientific expert for the PhD qualifier of Ananthu Aniraj (INRIA), 14/09/2023
+- Scientific expert for the PhD qualifier of Kun Li (Twente University), 24/03/2022
+- Scientific expert for the PhD qualifier of Ihab Bendidi (Université PSL), 05/01/2023
+- Scientific expert for the PhD qualifier of Jurrian Doornbos (Wageningen University and Research), 16/01/2023
+
+## Hiring committee
+
+- External participant to the hiring committee (COS) of ENSAT, Toulouse, France (16/05/2023)
