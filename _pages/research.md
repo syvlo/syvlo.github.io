@@ -38,7 +38,8 @@ Reviews for international conferences:
 - Maclean workshop at ECML/PKDD
 
 Reviews for Grants:
-- ANR
+- Agence Nationale de la Recherche (French national research funding agency)
+- Deutsche Forschungsgemeinschaft (German research funding agency)
 
 ## Workshop and tutorials
 
@@ -52,6 +53,7 @@ I gave the following tutorials:
 ## Seminars and keynotes
 
 After 2022:
+- Munich School on Remote Sensing, Munich, Germany, 27/09/2023
 - Maison de la Télédétection, Montpellier, France, 15/09/2023
 - EPITA research laboratory, France 25/05/2023
 - University of Zurich, Switzerland, 15/11/2022
