@@ -8,6 +8,11 @@ nav: true
 I supervise(d) the following students:
 
 ## PhD students
+- Hichem Boussaid (01/10/2023 - Today)
+	* Topic: Multimodal remote sensing data and natural language.
+	* University: Université Paris Cité
+	* Funding: French National Research Agency (ANR)
+	* Supervisors: Laurent Wendling (director), Camille Kurtz, Sylvain Lobry
 - Lucrezia Tosato (01/10/2022 - Today)
 	* Topic: Multilevel fusion for remote sensing visual question answering.
 	* University: Université Paris Cité
