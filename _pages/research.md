@@ -27,8 +27,9 @@ Reviews for international journals:
 
 Reviews for international conferences:
 - CVPR (outstanding reviewer award 2022)
-- ECCV
 - ICCV
+- ECCV
+- WACV
 - ICPR
 - IGARSS
 - ISPRS Congress
@@ -36,14 +37,18 @@ Reviews for international conferences:
 - ESA Living Planet Symposium
 - EarthVision workshop at CVPR
 - Maclean workshop at ECML/PKDD
+- Computer Vision in Plant Phenotyping and Agriculture workshop at ICCV
+- MVEO workshop at BMVC
+- GeoAI Workshop at ACM SIGSPATIAL
 
 Reviews for Grants:
 - Agence Nationale de la Recherche (French national research funding agency)
 - Deutsche Forschungsgemeinschaft (German research funding agency)
 
-## Workshop and tutorials
+## Workshop, special sessions and tutorials
 
 I was involved in the organisation of:
+- Special session on *Deep learning approaches for multi-temporal and multi-modal data processing and analysis for urban areas* at JURSE 2023
 - PRRS workshop at ICPR 2022
 
 I gave the following tutorials:
@@ -59,12 +64,12 @@ After 2022:
 - University of Zurich, Switzerland, 15/11/2022
 - French Ministry of Finances, 29/06/2022
 
-## PhD students qualifiers
+## PhD students qualifiers (*CSI* in french)
 
 - Scientific expert for the PhD qualifier of Ananthu Aniraj (INRIA), 14/09/2023
-- Scientific expert for the PhD qualifier of Kun Li (Twente University), 24/03/2022
-- Scientific expert for the PhD qualifier of Ihab Bendidi (Université PSL), 05/01/2023
 - Scientific expert for the PhD qualifier of Jurrian Doornbos (Wageningen University and Research), 16/01/2023
+- Scientific expert for the PhD qualifier of Ihab Bendidi (Université PSL), 05/01/2023
+- Scientific expert for the PhD qualifier of Kun Li (Twente University), 24/03/2022
 
 ## Hiring committee
 
