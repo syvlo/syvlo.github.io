@@ -1,11 +1,10 @@
 ---
 layout: page
-permalink: /students/
-title: Students
+permalink: /team/
+title: Team
 nav: true
 ---
 
-I supervise(d) the following students:
 
 ## PhD students
 - Hichem Boussaid (01/10/2023 - Today)
@@ -13,7 +12,7 @@ I supervise(d) the following students:
 	* University: Université Paris Cité
 	* Funding: French National Research Agency (ANR)
 	* Supervisors: Laurent Wendling (director), Camille Kurtz, Sylvain Lobry
-- Lucrezia Tosato (01/10/2022 - Today)
+- [Lucrezia Tosato](https://lucreziat.github.io/) (01/10/2022 - Today)
 	* Topic: Multilevel fusion for remote sensing visual question answering.
 	* University: Université Paris Cité
 	* Funding: Doctoral school EDITE
