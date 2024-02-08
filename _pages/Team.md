@@ -5,8 +5,20 @@ title: Team
 nav: true
 ---
 
+## Post-doctoral students
+- Yuxing Chen (01/02/2024 - Today)
+	* Topic : Remote Sensing and Language
+	* University: Université Paris Cité
+	* Funding: French National Research Agency (ANR)
+	* Supervisors: Sylvain Lobry, Laurent Wendling, Camille Kurtz
+
 
 ## PhD students
+- Swann Briand (01/01/2024 - Today)
+	* Topic: Time series fusion of optical and radar remote sensing images of different resolution for monitoring snow cover and deforestation.
+	* University: Centrale Nantes
+	* Funding: Région Pays de la Loire / ONERA
+	* Supervisors: Jérôme Idier (director), Flora Weissgerber, Sylvain Lobry
 - Hichem Boussaid (01/10/2023 - Today)
 	* Topic: Multimodal remote sensing data and natural language.
 	* University: Université Paris Cité
