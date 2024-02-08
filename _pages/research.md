@@ -10,7 +10,11 @@ nav: true
 
 Co-chair of the <a href="http://iapr-tc7.ipb.uni-bonn.de">IAPR Technical Committee 7 (TC7) – Remote Sensing and Mapping</a>
 
-## Peer-review
+## Editorial service and Peer-review
+
+Guest-editor in the following journals:
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- IEEE Geoscience and Remote Sensing Letters
 
 Reviews for international journals:
 - IEEE Transactions on Geoscience and Remote Sensing
