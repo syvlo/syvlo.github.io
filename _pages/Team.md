@@ -52,6 +52,11 @@ nav: true
 <br>
 
 ## MSc students
+- Nicolas Houdré (2024)
+	* Topic: Partial latent encoding of multi-spectral data
+	* University: Université Paris Cité
+	* Funding: ANR
+	* Supervisors: Sylvain Lobry, Laurent Wendling, Camille Kurtz, Diego Marcos (INRIA), Dino Ienco (INRAE)
 - Mathilde Bonin (2023)
 	* Topic: OpenStreetMap and Sentinel-2 data for the automatic production of environmental indices for demographic studies
 	* University: Université Paris Cité
