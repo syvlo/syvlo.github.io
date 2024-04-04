@@ -61,7 +61,8 @@ I gave the following tutorials:
 
 ## Seminars and keynotes
 
-After 2022:
+Since 2022:
+- Gestion et Analyse des données Aériennes et Satellitaires (G2AS' 24), Paris, France, 17/04/2024
 - Munich School on Remote Sensing, Munich, Germany, 27/09/2023
 - Maison de la Télédétection, Montpellier, France, 15/09/2023
 - EPITA research laboratory, France 25/05/2023
@@ -72,7 +73,7 @@ After 2022:
 
 - Scientific expert for the PhD qualifier of Ananthu Aniraj (INRIA), 14/09/2023
 - Scientific expert for the PhD qualifier of Jurrian Doornbos (Wageningen University and Research), 16/01/2023
-- Scientific expert for the PhD qualifier of Ihab Bendidi (Université PSL), 05/01/2023
+- Scientific expert for the PhD qualifier of Ihab Bendidi (Université PSL), 05/01/2023, 21/03/2024
 - Scientific expert for the PhD qualifier of Kun Li (Twente University), 24/03/2022
 
 ## Hiring committee
