@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three new MSc internship offers with Inria and INRAE!
+title: <s>Three new MSc internship offers with Inria and INRAE!</s> (filled)
 date: 2023-11-29 08:00:00-0400
 inline: false
 ---
