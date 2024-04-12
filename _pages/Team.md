@@ -43,11 +43,13 @@ nav: true
 	* University: EPFL
 	* Funding: EPFL, ESA
 	* Supervisors: Devis Tuia (co-director), Sylvain Lobry (co-director), Bertrand Le Saux, Benjamin Kellenberger
-- Nathan Letheule (01/10/2020 - Today)
-	* Topic: Segmentation d’images optiques de télédetection par apprentissage profond pour la simulation SAR
+
+- Nathan Letheule (01/10/2020 - 11/04/2024)
+	* Topic: Contributions of Deep Learning to SAR image simulation
 	* University: Paris Saclay
 	* Funding: Direction Generale de l'Armement (DGA), ONERA
 	* Supervisors: Elise Koeniguer (director), Flora Weissgerber, Sylvain Lobry
+	* Now with ONERA
 
 <br>
 
@@ -57,6 +59,7 @@ nav: true
 	* University: Université Paris Cité
 	* Funding: ANR
 	* Supervisors: Sylvain Lobry, Laurent Wendling, Camille Kurtz, Diego Marcos (INRIA), Dino Ienco (INRAE)
+
 - Mathilde Bonin (2023)
 	* Topic: OpenStreetMap and Sentinel-2 data for the automatic production of environmental indices for demographic studies
 	* University: Université Paris Cité
