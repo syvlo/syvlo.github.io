@@ -44,7 +44,7 @@ nav: true
 	* Funding: EPFL, ESA
 	* Supervisors: Devis Tuia (co-director), Sylvain Lobry (co-director), Bertrand Le Saux, Benjamin Kellenberger
 
-- Nathan Letheule (01/10/2020 - 11/04/2024)
+- 🎓 Nathan Letheule (01/10/2020 - 11/04/2024)
 	* Topic: Contributions of Deep Learning to SAR image simulation
 	* University: Paris Saclay
 	* Funding: Direction Generale de l'Armement (DGA), ONERA
@@ -60,43 +60,43 @@ nav: true
 	* Funding: ANR
 	* Supervisors: Sylvain Lobry, Laurent Wendling, Camille Kurtz, Diego Marcos (INRIA), Dino Ienco (INRAE)
 
-- Mathilde Bonin (2023)
+- 🎓 Mathilde Bonin (2023)
 	* Topic: OpenStreetMap and Sentinel-2 data for the automatic production of environmental indices for demographic studies
 	* University: Université Paris Cité
 	* Funding: Data Intelligence Institute of Paris (diiP)
 	* Supervisors: Basile Rousse, Sylvain Lobry, Laurent Wendling, Valérie Golaz (INED), Géraldine Duthé (INED)
-- Hichem Boussaid (2023)
+- 🎓 Hichem Boussaid (2023)
 	* Topic: Visual Question Answering on Remote Sensing Data
 	* University: Université Paris Cité
 	* Funding: French National Research Agency (ANR)
 	* Supervisors: Sylvain Lobry, Camille Kurtz, Laurent Wendling
-- Anton Emelchenkov (2022)
+- 🎓 Anton Emelchenkov (2022)
 	* Topic: Text and remote sensing images interactions
 	* University: Université Paris Cité
 	* Funding: French National Research Agency (ANR)
 	* Supervisors: Sylvain Lobry, Camille Kurtz, Laurent Wendling
-- Lys Thay (2021)
+- 🎓 Lys Thay (2021)
 	* Topic: Production automatique d’indicateurs environnementaux à partir de données de télédétection
 	* University: Université Paris Cité
 	* Funding: Data Intelligence Institute of Paris (diiP)
 	* Supervisors: Sylvain Lobry, Laurent Wendling, Valérie Golaz (INED), Géraldine Duthé (INED)
-- Maxime Faure (2021)
+- 🎓 Maxime Faure (2021)
 	* Topic: Intégration d’une méthode d’évaluation de relations spatiales à un modèle de Visual Question Answering appliqué àdes images de télédétection
 	* University: Université Paris Cité
 	* Supervisors: Sylvain Lobry, Camille Kurtz, Laurent Wendling
-- Luigi Greselin (2020)
+- 🎓 Luigi Greselin (2020)
 	* Topic: Multi-object counting Neural Network: a proposal for remotely sensed imagery
 	* University: Wageningen University
 	* Supervisors: Diego Marcos, Sylvain Lobry, Devis Tuia
-- Lars van Kleef (2020)
+- 🎓 Lars van Kleef (2020)
 	* Topic: Towards Generic Counting Models for Remotely Sensed Imagery
 	* University: Wageningen University
 	* Supervisors: Sylvain Lobry, Devis Tuia
-- Julian Kremers (2019)
+- 🎓 Julian Kremers (2019)
 	* Topic: Tropical Forest Monitoring with High-Resolution Optical Satellite Data
 	* University: Wageningen University
 	* Supervisors: Johannes Reiche, Sylvain Lobry
-- Sake Alkema (2019)
+- 🎓 Sake Alkema (2019)
 	* Topic: Identifying Caltha palustris from UAV images by deep learning
 	* University: Wageningen University
 	* Supervisors: Sylvain Lobry, Sander Mücher, Devis Tuia
