@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New PhD offer (CSC)
+title: <s>New PhD offer (CSC)</s>
 date: 2023-12-07 08:00:00-0400
 inline: false
 ---

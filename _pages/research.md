@@ -63,6 +63,7 @@ I gave the following tutorials:
 
 Since 2022:
 - Gestion et Analyse des données Aériennes et Satellitaires (G2AS' 24), Paris, France, 17/04/2024
+- <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23461">Space and AI Dagstuhl seminar</a>, Dagstuhl, Germany, 12/11/2023
 - Munich School on Remote Sensing, Munich, Germany, 27/09/2023
 - Maison de la Télédétection, Montpellier, France, 15/09/2023
 - EPITA research laboratory, France 25/05/2023
