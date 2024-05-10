@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <s>New MSc internship position (in collaboration with INED)</s> (filled)
-date: 2022-11-28 08:00:00-0400
+date: 2022-09-28 08:00:00-0400
 inline: false
 ---
 
