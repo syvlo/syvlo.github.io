@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New PhD offer (EDITE, deadline 15/05)
+title: <s>New PhD offer (EDITE, deadline 15/05)</s>
 date: 2024-05-07 08:00:00-0400
 inline: false
 ---
