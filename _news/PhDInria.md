@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <s>New PhD offer at Inria</s>
+title: New PhD offer at Inria
 date: 2024-05-28 08:00:00-0400
 inline: false
 ---
