@@ -56,6 +56,7 @@ I was involved in the organisation of:
 - PRRS workshop at ICPR 2022
 
 I gave the following tutorials:
+- Transformers at the summer school AI & Biology and Genetics 2024
 - Semantic segmentation of remote sensing images at the IADF school 2022
 - *Deep learning for remote sensing* at the Nordic Remote Sensing Conference 2019
 
@@ -70,9 +71,13 @@ Since 2022:
 - University of Zurich, Switzerland, 15/11/2022
 - French Ministry of Finances, 29/06/2022
 
+## PhD students defences
+
+- *Eaxminer* for the PhD defence of Robin Jarry (Université de Montpellier), le 20/09/2024
+
 ## PhD students qualifiers (*CSI* in french)
 
-- Scientific expert for the PhD qualifier of Ananthu Aniraj (INRIA), 14/09/2023
+- Scientific expert for the PhD qualifier of Ananthu Aniraj (INRIA), 14/09/2023, 25/06/2024
 - Scientific expert for the PhD qualifier of Jurrian Doornbos (Wageningen University and Research), 16/01/2023
 - Scientific expert for the PhD qualifier of Ihab Bendidi (Université PSL), 05/01/2023, 21/03/2024
 - Scientific expert for the PhD qualifier of Kun Li (Twente University), 24/03/2022
