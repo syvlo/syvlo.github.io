@@ -120,9 +120,112 @@
             <!-- _pages/publications.md -->
 <div class="publications">
 
-<h2>International Journals</h2>
+<h2>Books</h2>
   <h2 class="year">2024</h2>
   <ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="lobry2024visual" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Visual question answering on remote sensing images</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Sylvain Lobry</em>, and Devis Tuia</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>In Advances in Machine Learning and Image Analysis for GeoAI</em>, 2024
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+</div>
+
+<p><br><br></p>
+
+<div class="publications">
+
+<h2>International Journals</h2>
+  <h2 class="year">2024</h2>
+  <ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="leygonie2024can" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Can we detect plant diseases without prior knowledge of their existence?</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Rebecca Leygonie, <em>Sylvain Lobry</em>, and Laurent Wendling</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>International Journal of Applied Earth Observation and Geoinformation</em>, 2024
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">BibTex</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>There is a need to help farmers make decisions to maximize crop yields. Many studies have emerged in recent years using deep learning on remotely sensed images to detect plant diseases, which can be caused by multiple factors such as environmental conditions, genetics or pathogens. This problem can be considered as an anomaly detection task. However, these approaches are often limited by the availability of annotated data or prior knowledge of the existence of an anomaly. In many cases, it is not possible to obtain this information. In this work, we propose an approach that can detect plant anomalies without prior knowledge of their existence, thus overcoming these limitations. To this end, we train a model on an auxiliary prediction task using a dataset composed of samples of normal and abnormal plants. Our proposed method studies the distribution of heatmaps retrieved from an explainability model. Based on the assumptions that the model trained on the auxiliary task is able to extract important plant characteristics, we propose to study how closely the heatmap of a new observation follows the heatmap distribution of a normal dataset. Through the proposed a contrario approach, we derive a score indicating potential anomalies.
+Experiments show that our approach outperforms reference approaches such as f-AnoGAN and OCSVM on the GrowliFlower and PlantDoc datasets and has competitive performances on the PlantVillage dataset, while not requiring the prior knowledge on the existence of anomalies.</p>
+          </div>
+<!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">leygonie2024can</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Can we detect plant diseases without prior knowledge of their existence?}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Leygonie, Rebecca and Lobry, Sylvain and Wendling, Laurent}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{International Journal of Applied Earth Observation and Geoinformation}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{134}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2024}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Elsevier}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"></div>
@@ -189,7 +292,8 @@
           </div>
         </div>
       </div>
-</li></ol>
+</li>
+</ol>
 
   <h2 class="year">2021</h2>
   <ol class="bibliography">
@@ -826,6 +930,74 @@
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
             <p>Speckle phenomenon in synthetic aperture radar (SAR) images makes their visual and automatic interpretation a difficult task. To reduce strong fluctuations due to speckle, total variation (TV) regularization has been proposed by several authors to smooth out noise without blurring edges. A specificity of SAR images is the presence of strong scatterers having a radiometry several orders of magnitude larger than their surrounding region. These scatterers, especially present in urban areas, limit the effectiveness of TV regularization as they break the assumption of an image made of regions of constant radiometry. To overcome this limitation, we propose in this paper an image decomposition approach. There exist numerous methods to decompose an image into several components, notably to separate textural and geometrical information. These decomposition models are generally recast as energy minimization problems involving a different penalty term for each of the components. In this framework, we propose an energy suitable for the decomposition of SAR images into speckle, a smooth background, and strong scatterers, and discuss its minimization using max-flow/min-cut algorithms. We make the connection between the minimization problem considered, involving the L0 pseudonorm, and the generalized likelihood ratio test used in detection theory. The proposed decomposition jointly performs the detection of strong scatterers and the estimation of the background radiometry. Given the increasing availability of time series of SAR images, we consider the decomposition of a whole time series. New change detection methods can be based on the temporal analysis of the components obtained from our decomposition.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+</div>
+
+<p><br><br></p>
+
+<div class="publications">
+<h2>National Journals</h2>
+  <h2 class="year">2017</h2>
+  <ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="TS2017" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Décomposition de séries temporelles d’images SAR pour la détection de changement</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Sylvain Lobry</em>, Loïc Denis, Weying Zhao, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Florence Tupin' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Traitement du Signal</em>, 2017
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">BibTex</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">TS2017</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Décomposition de séries temporelles d'images SAR pour la détection de changement}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Lobry, Sylvain and Denis, Loïc and Zhao, Weying and Tupin, Florence}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Traitement du Signal}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2017}</span>
+<span class="p">}</span></code></pre></figure>
           </div>
         </div>
       </div>
@@ -2803,7 +2975,7 @@ Visual Question Answering (VQA), a task that aims at answering an open-ended que
         <!-- Entry bib key -->
         <div id="Montginoux2023GRETSI" class="col-sm-8">
         <!-- Title -->
-        <div class="title">Évaluation du couvert neigeux à partir d’images SAR par apprentissage profond basé sur des images optiques de référence (to appear)</div>
+        <div class="title">Évaluation du couvert neigeux à partir d’images SAR par apprentissage profond basé sur des images optiques de référence</div>
         <!-- Author -->
         <div class="author">
         
@@ -2853,7 +3025,7 @@ The model, called SESAR U-net, is trained on a small area and then tested over a
 <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
             <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">Montginoux2023GRETSI</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">{Évaluation du couvert neigeux à partir d'images SAR par apprentissage profond basé sur des images optiques de référence (to appear)}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Évaluation du couvert neigeux à partir d'images SAR par apprentissage profond basé sur des images optiques de référence}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Montginoux, Mathias and Weissgerber, Flora and Lobry, Sylvain and Idier, Jérôme}</span><span class="p">,</span>
   <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{GRETSI}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
