@@ -43,7 +43,6 @@ nav: true
 	* University: EPFL
 	* Funding: EPFL, ESA
 	* Supervisors: Devis Tuia (co-director), Sylvain Lobry (co-director), Bertrand Le Saux, Benjamin Kellenberger
-
 - 🎓 Nathan Letheule (01/10/2020 - 11/04/2024)
 	* Topic: Contributions of Deep Learning to SAR image simulation
 	* University: Paris Saclay
@@ -54,12 +53,11 @@ nav: true
 <br>
 
 ## MSc students
-- Nicolas Houdré (2024)
+- 🎓 Nicolas Houdré (2024)
 	* Topic: Partial latent encoding of multi-spectral data
 	* University: Université Paris Cité
 	* Funding: ANR
 	* Supervisors: Sylvain Lobry, Laurent Wendling, Camille Kurtz, Diego Marcos (INRIA), Dino Ienco (INRAE)
-
 - 🎓 Mathilde Bonin (2023)
 	* Topic: OpenStreetMap and Sentinel-2 data for the automatic production of environmental indices for demographic studies
 	* University: Université Paris Cité
