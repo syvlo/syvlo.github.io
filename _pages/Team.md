@@ -14,6 +14,21 @@ nav: true
 
 
 ## PhD students
+- Marion Chadal (01/11/2024 - Today)
+	* Topic: Visual grounding
+	* University: Université Paris Cité
+	* Funding: Doctoral school EDITE
+	* Supervisors: Nicolas Loménie (director), Sylvai Lobry
+- Nicolas Houdré (01/11/2024 - Today)
+	* Topic: Foundational geo-spatial models for Earth observation: towards multi-modality.
+	* University: Université Paris Cité
+	* Funding: French National Research Agency (ANR)
+	* Supervisors: Camille Kurtz (director), Laurent Wendling, Diego Marcos, Sylvain Lobry
+- Hugo Riffaud de Turckheim (01/11/2024 - Today)
+	* Topic: Foundational geo-spatial models for Earth observation: integrating textual and remotely sensed data.
+	* University: INRIA
+	* Funding: French National Research Agency (ANR)
+	* Supervisors: Roberto Interdonato (director), Diego Marcos, Sylvain Lobry 
 - Swann Briand (01/01/2024 - Today)
 	* Topic: Time series fusion of optical and radar remote sensing images of different resolution for monitoring snow cover and deforestation.
 	* University: Centrale Nantes
