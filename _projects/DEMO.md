@@ -1,10 +1,10 @@
 ---
 layout: page
 title: DEMO
-description: RS for Demographic studies (2020 - Today)
+description: RS for Demographic studies (2020 - 2024)
 img: assets/img/DEMO.png
-importance: 3
-category: Ongoing
+importance: 1
+category: Past
 ---
 
 ## Description
