@@ -44,11 +44,12 @@ nav: true
 	* University: Université Paris Cité
 	* Funding: Doctoral school EDITE
 	* Supervisors: Laurent Wendling (director), Flora Weissgerber, Sylvain Lobry
-- [Basile Rousse](https://basiler.github.io) (01/12/2021 - Today)
+- 🎓 [Basile Rousse](https://basiler.github.io) (01/12/2021 - 21/11/2024)
 	* Topic: Prediction of demographic indicators from remote sensing images
 	* University: Université Paris Cité
 	* Funding: Data Intelligence Institute of Paris (diiP)
 	* Supervisors: Laurent Wendling (co-director), Valérie Golaz (INED, co-director), Géraldine Duthé (INED), Sylvain Lobry
+	* Now with ONERA
 - Rebecca Leygonie (01/10/2021 - Today)
 	* Topic: Transposition de données de gestion à grande échelle vers des images structurées pour l’application de réseaux de neurones convolutifs.
 	* University: Université Paris Cité
