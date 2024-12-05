@@ -8,7 +8,8 @@ nav: true
 
 ## Community service
 
-Co-chair of the <a href="http://iapr-tc7.ipb.uni-bonn.de">IAPR Technical Committee 7 (TC7) – Remote Sensing and Mapping</a>
+- Chair (since 2024) and Co-chair (2020 - 2024) of the <a href="https://iapr-tc7.github.io">IAPR Technical Committee 7 (TC7) – Remote Sensing and Mapping</a>
+- Elected member (2024 - 2028) of the administration council of <a href="http://www.afrif.asso.fr">AFRIF</a>
 
 ## Editorial service and Peer-review
 
@@ -52,6 +53,9 @@ Reviews for Grants:
 ## Workshop, special sessions and tutorials
 
 I was involved in the organisation of:
+- Special session on *Multimodal and multitemporal data fusion for urban analysis: Methods, Applications, and Explainability* at JURSE 2025
+- PRRS workshop at ICPR 2024
+- Community contributed session on *Data-centric AI for Geosciences* at IGARSS 2024
 - Special session on *Deep learning approaches for multi-temporal and multi-modal data processing and analysis for urban areas* at JURSE 2023
 - PRRS workshop at ICPR 2022
 
@@ -63,6 +67,7 @@ I gave the following tutorials:
 ## Seminars and keynotes
 
 Since 2022:
+- MVEO workshop at BMVC, Glasgow, Scotland, 28/11/2024
 - Gestion et Analyse des données Aériennes et Satellitaires (G2AS' 24), Paris, France, 17/04/2024
 - <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23461">Space and AI Dagstuhl seminar</a>, Dagstuhl, Germany, 12/11/2023
 - Munich School on Remote Sensing, Munich, Germany, 27/09/2023
