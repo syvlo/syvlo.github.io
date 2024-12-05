@@ -30,6 +30,10 @@ Students:
 
 
 ## Publications
+### International Journals
+<div class="publications">
+{% bibliography -f InternationalJournals -q @*[project=DEMO]* %}
+</div>
 ### International Conferences
 <div class="publications">
 {% bibliography -f InternationalConf -q @*[project=DEMO]* %}
