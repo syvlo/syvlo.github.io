@@ -50,10 +50,11 @@ nav: true
 	* Funding: Data Intelligence Institute of Paris (diiP)
 	* Supervisors: Laurent Wendling (co-director), Valérie Golaz (INED, co-director), Géraldine Duthé (INED), Sylvain Lobry
 	* Now with ONERA
-- Rebecca Leygonie (01/10/2021 - Today)
+- 🎓 Rebecca Leygonie (01/10/2021 - 10/12/2024)
 	* Topic: Transposition de données de gestion à grande échelle vers des images structurées pour l’application de réseaux de neurones convolutifs.
 	* University: Université Paris Cité
 	* Supervisors: Laurent Wendling (director), Guillaume Vimont, Sylvain Lobry
+	* Now with Ministère des Armées
 - [Christel Chappuis](https://people.epfl.ch/christel.chappuis?lang=en) (01/12/2020 - Today)
 	* Topic: What temporal method for natural language interactions with Earth observation data can help monitor environmental changes?
 	* University: EPFL
