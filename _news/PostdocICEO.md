@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post-doc offer (12 months) on ESA project
+title: <s>Post-doc offer (12 months) on ESA project</s>
 date: 2024-09-04 08:00:00-0400
 inline: false
 ---
