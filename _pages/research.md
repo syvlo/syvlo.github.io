@@ -69,6 +69,7 @@ I gave the following tutorials:
 ## Seminars and keynotes
 
 Since 2022:
+- AMLD conference at EPFL, Lausanne, Switzerland, 12/02/2025
 - MVEO workshop at BMVC, Glasgow, Scotland, 28/11/2024
 - Gestion et Analyse des données Aériennes et Satellitaires (G2AS' 24), Paris, France, 17/04/2024
 - <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23461">Space and AI Dagstuhl seminar</a>, Dagstuhl, Germany, 12/11/2023
