@@ -84,6 +84,7 @@ Since 2022:
 
 ## PhD students qualifiers (*CSI* in french)
 
+- Scientific expert for the PhD qualifier of Guillaume Astruc (IMAGINE ENPC), 22/05/2024
 - Scientific expert for the PhD qualifier of Ananthu Aniraj (INRIA), 14/09/2023, 25/06/2024
 - Scientific expert for the PhD qualifier of Jurrian Doornbos (Wageningen University and Research), 16/01/2023
 - Scientific expert for the PhD qualifier of Ihab Bendidi (Université PSL), 05/01/2023, 21/03/2024
