@@ -40,6 +40,7 @@ Reviews for international conferences:
 - ISPRS Congress
 - JURSE
 - ESA Living Planet Symposium
+- ESA-NASA International Workshop on AI Foundation Model for EO
 - EarthVision workshop at CVPR
 - Maclean workshop at ECML/PKDD
 - Computer Vision in Plant Phenotyping and Agriculture workshop at ICCV
@@ -48,6 +49,7 @@ Reviews for international conferences:
 
 Reviews for Grants:
 - Agence Nationale de la Recherche (French national research funding agency)
+- Région Nouvelle-Aquitaine
 - Deutsche Forschungsgemeinschaft (German research funding agency)
 
 ## Workshop, special sessions and tutorials
