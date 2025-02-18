@@ -6,12 +6,18 @@ nav: true
 ---
 
 ## Post-doctoral students
-- Yuxing Chen (01/02/2024 - Today)
+- Yuxing Chen (01/02/2024 - 31/01/2025)
 	* Topic : Remote Sensing and Language
 	* University: Université Paris Cité
 	* Funding: French National Research Agency (ANR)
 	* Supervisors: Sylvain Lobry, Laurent Wendling, Camille Kurtz
 
+## Researchers
+- Lamia Lahouel (01/02/2025 - Today)
+	* Topic : Geospatial AI Agents
+	* University: Université Paris Cité
+	* Funding: European Spatial Agency (ESA)
+	* Supervisors: Sylvain Lobry
 
 ## PhD students
 - Marion Chadal (01/11/2024 - Today)
