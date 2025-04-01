@@ -6,6 +6,11 @@ nav: true
 ---
 
 ## Post-doctoral students
+- Roger Ferrod (01/04/2025 - )
+	* Topic : Remote Sensing and GIS
+	* University: Université Paris Cité
+	* Funding: Google
+	* Supervisors: Sylvain Lobry
 - Yuxing Chen (01/02/2024 - 31/01/2025)
 	* Topic : Remote Sensing and Language
 	* University: Université Paris Cité
