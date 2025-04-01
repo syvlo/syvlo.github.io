@@ -1,6 +1,50 @@
 ---
 ---
 
+@inproceedings{EV2025,
+  title={Visual Question Answering on Multiple Remote Sensing Image Modalities},
+  author={Boussaid, Hichem and  Tosato, Lucrezia and  Weissgerber, Flora and Kurtz, Camille and Wendling, Laurent and Lobry, Sylvain},
+  booktitle={EarthVision at IEEE/CVF Conference on Computer Vision and Pattern Recognition CVPR},
+  year={2025},
+  abstract={The extraction of visual features is an essential step in Visual Question Answering (VQA). Building a good visual representation of the analyzed scene is indeed one of the essential keys for the system to be able to correctly understand the latter in order to answer complex questions. In many fields such as remote sensing, the visual feature extraction step could benefit significantly from leveraging different image modalities carrying complementary (spectral, spatial and contextual) information. In this work, we propose to add multiple image modalities to VQA in the particular context of remote sensing, leading to a novel task for the computer vision community. To this end, we introduce a new VQA dataset, named TAMMI Text and Multi-Modal Imagery) with diverse questions on scenes described by three different modalities (very high resolution RGB, multi-spectral imaging data and synthetic aperture radar). Thanks to an automated pipeline, this dataset can be easily extended according to experimental needs. We also propose the MM-RSVQA (Multi-modal Multi-resolution Remote Sensing Visual Question Answering) model, based on VisualBERT, a vision-language transformer, to effectively combine the multiple image modalities and text through a trainable fusion process. A preliminary experimental study shows promising results of our methodology on this challenging dataset, with an accuracy of 65.56% on the targeted VQA task. This pioneering work paves the way for the community to a new multi-modal multi-resolution VQA task that can be applied in other imaging domains (such as medical imaging) where multi-modality can enrich the visual representation of a scene. A subset of the dataset and code is available in supplementary material.},
+  bibtex_show={true}
+}
+
+@inproceedings{MORSE2025,
+  title={PAN-RSVQA: Vision Foundation Models as Pseudo-ANnotators for Remote Sensing Visual Question Answering},
+  author={Chappuis, Christel and Sümbül, Gencer and Montariol, Syrielle and Lobry, Sylvain and Tuia, Devis},
+  booktitle={Workshop MORSE at CVPR},
+  year={2025},
+  abstract={While the quantity of Earth observation (EO) images is constantly increasing, the benefits that can be derived from these images are still limited by the required technical expertise to run information extraction pipelines. Using natural language to break this barrier, Remote Sensing Visual Question Answering (RSVQA) aims to make EO images usable by a wider, general public. Traditional RSVQA methods utilize a visual encoder to extract generic features from images, which are then fused with the features of the questions entered by users. Given their multi-task nature, Vision foundation models (VFMs) allow to go beyond such generic visual features, and can be seen as pseudo-annotators extracting diverse sets of features from a collection of inter-related tasks (objects detected, segmentation maps, scene descriptions etc.). In this work, we propose PAN-RSVQA, a new method combining a VFM and its pseudo-annotations with RSVQA by leveraging a transformer-based multi-modal encoder. These pseudo-annotations bring diverse, naturally interpretable visual cues, as they are aligned with how humans reason about images: therefore, PAN-RSVQA not only exploits large-scale training of VFMs but also enables accurate and interpretable RSVQA. Experiments on two datasets show results on par with the state-of-the-art while enabling enhanced interpretation of the model predictions, which we analyze via sample visual perturbations and ablations of the role of each pseudo-annotator. In addition, PAN-RSVQA is modular and easily extendable to new pseudo-annotators from other VFMs.},
+  bibtex_show={true}
+}
+
+@inproceedings{JURSE2025,
+  title={LLM-Driven Data Augmentation for Visual Question Answering},
+  author={Boussaid, Hichem and  Kwon, Nayoung and Kurtz, Camille and Wendling, Laurent and Lobry, Sylvain},
+  booktitle={Joint Urban Remote Sensing Event (JURSE)},
+  year={2025},
+  abstract={Remote Sensing Visual Question Answering (RSVQA) is a task aiming at automatic answering questions related to overhead imagery. Many studies have been conducted in recent years, focusing on the methods and the data. However, a recurrent problem is the lack of generalization abilities and robustness to questions with similar semantics but different wording. This work focuses on the data part, specifically the questions. Our objective is to make RSVQA models more robust to various changes in questions, more generalizable (e.g. to unseen phrasing, synonyms) and less susceptible to bias in the data. To this end, we propose to leverage the abilities of Large Language Models (LLMs) in the field of natural language processing, to enrich a RSVQA dataset by generating new questions with the same meaning and semantics. To showcase the effectiveness of this process we compare and confront a baseline, relying on back translation, and the proposed LLM-based approach on an urban dataset (RSVQA-HR). Our experimental study, with quantitative evaluation performances, highlights that models trained with the proposed data augmentation scheme are indeed more robust to unseen questions.},
+  bibtex_show={true}
+}
+
+@inproceedings{WACV2025,
+  title={ProMM-RS: Exploring Probabilistic learning for Multi-Modal Remote Sensing Image Representations},
+  author={Houdré, Nicolas and  Marcos, Diego and  Ienco, Dino and  Wendling, Laurent and  Kurtz, Camille and Lobry, Sylvain},
+  booktitle={Workshop GeoCV at WACV},
+  year={2025},
+  abstract={Remote sensing imagery offers diverse modalities, such as synthetic aperture radar and multispectral data, which can bring rich, complementary and valuable information about observed scenes. This information is of paramount importance for downstream applications (e.g. land cover mapping, natural resources monitoring, human settlement characterization) that may benefit from such complementarity. Remote sensing imagery often suffers from a lack of labeled data which can hamper the learning of good representations via state-of-the-art supervised methods. Self-supervised learning has thus emerged as a promising paradigm for remote sensing feature extraction, enabling the extraction of meaningful features without reliance on labeled data. While existing multi-modal contrastive models effectively capture shared information between modalities, they often struggle to account for the inherent heterogeneity of multi-modal remote sensing data. This limitation prevents them from fully leveraging the complementarity of multi-modal remote sensing data. Probabilistic representation learning has emerged as a powerful approach to capture the inherent uncertainty and diversity in multi-modal relationships. In this paper we present ProMM-RS, a novel multi-modal self-supervised training framework incorporating a joint probabilistic embedding space to explicitly model the uncertainty of representations between different inputs and modalities. We evaluate our learned representations with a scene classification downstream task from Sentinel optical and radar images, effectively showing the potential of probabilistic embeddings as a way to measure the relevancy of each modality representation, especially under an obstructed dataset.},
+  bibtex_show={true}
+}
+
+@inproceedings{VISIGRAPP2025,
+  title={Evaluating Transformers Learning by Representing Attention Weights as a Graph},
+  author={Leygonie, Rebecca and Lobry, Sylvain and Wendling, Laurent},
+  booktitle={The 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP)},
+  year={2025},
+  bibtex_show={true}
+}
+
 @inproceedings{Tosato2024IGARSS,
   title={Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images},
   author={Tosato, Lucrezia* and Boussaid, Hichem* and Weissgerber, Flora and Kurtz, Camille and Wendling, Laurent and Lobry, Sylvain},
