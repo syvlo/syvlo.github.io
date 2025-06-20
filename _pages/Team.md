@@ -25,11 +25,6 @@ nav: true
 	* Supervisors: Sylvain Lobry
 
 ## PhD students
-- Marion Chadal (01/11/2024 - Today)
-	* Topic: Visual grounding
-	* University: Université Paris Cité
-	* Funding: Doctoral school EDITE
-	* Supervisors: Nicolas Loménie (director), Sylvai Lobry
 - Nicolas Houdré (01/11/2024 - Today)
 	* Topic: Foundational geo-spatial models for Earth observation: towards multi-modality.
 	* University: Université Paris Cité
@@ -66,7 +61,7 @@ nav: true
 	* University: Université Paris Cité
 	* Supervisors: Laurent Wendling (director), Guillaume Vimont, Sylvain Lobry
 	* Now with Ministère des Armées
-- [Christel Chappuis](https://people.epfl.ch/christel.chappuis?lang=en) (01/12/2020 - Today)
+- 🎓 [Christel Chappuis](https://people.epfl.ch/christel.chappuis?lang=en) (01/12/2020 - 18/06/2025)
 	* Topic: What temporal method for natural language interactions with Earth observation data can help monitor environmental changes?
 	* University: EPFL
 	* Funding: EPFL, ESA
