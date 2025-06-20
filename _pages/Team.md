@@ -76,6 +76,11 @@ nav: true
 <br>
 
 ## MSc students
+- Maël Lecene (2025)
+	* Topic: GIS-optical images embeddings
+	* University: Université Paris Cité
+	* Funding: Google
+	* Supervisors: Roger Ferrod, Sylvain Lobry
 - 🎓 Nicolas Houdré (2024)
 	* Topic: Partial latent encoding of multi-spectral data
 	* University: Université Paris Cité
