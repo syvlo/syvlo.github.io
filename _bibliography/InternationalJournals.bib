@@ -1,6 +1,28 @@
 ---
 ---
 
+@article{Chappuis25,
+  title={Evaluating Language Biases in Remote Sensing Visual Question Answering: The role of spatial attributes, language diversity, and the need for clearer evaluation},
+  author={Chappuis, Christel and  Walt, Eliot and Mendez, Vincent and Lobry, Sylvain and Le Saux, Bertrand and Tuia, Devis},
+  journal={IEEE Geoscience and Remote Sensing Magazine},
+  abstract={Remote sensing visual question answering (RSVQA) opens new opportunities for the use of Earth observation imagery by the general public, by enabling human-machine interaction with natural language. Building on the recent advances in natural language processing and computer vision, the goal of RSVQA is to answer questions formulated in natural language about a remote sensing image. Language understanding is essential to the success of the task but has not yet been thoroughly examined in RSVQA. In particular, the problem of language biases is often overlooked in the remote sensing community. Biases impact model robustness and lead to wrong conclusions about the performances of the model. The present work aims at highlighting the problem of language biases in RSVQA with a threefold analysis strategy: through question-only models, adversarial testing and dataset analysis. Thanks to this analytical study, we observed that biases in remote sensing are severe, likely due to the specifics of existing remote sensing datasets, e.g. geographical similarities and sparsity, as well as the question generation strategies. With this work, we introduce and advocate for the use of more informative and relative evaluation metrics, sensitive to the issue, to assess both methods and datasets. The development of less-biased datasets along with visually grounding methods is a necessity for the future of the promising field of RSVQA: to develop future natural-language-based digital assistants to Earth observation, it is of the upmost importance that new RSVQA studies communicate transparently and openly with respect to the serious pitfall of language biases.},
+  year={2025},
+  publisher={IEEE},
+  url={https://ieeexplore.ieee.org/document/11029252},
+  bibtex_show={true}
+}
+
+@article{Tosato25,
+  title={SAR Strikes Back: A New Hope for RSVQA},
+  author={Tosato, Lucrezia and  Weissgerber, Flora and Wendling, Laurent and Lobry, Sylvain},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  abstract={Remote sensing visual question answering (RSVQA) is a task that automatically extracts information from satellite images and processes a question to predict the answer from the images in textual form, helping with the interpretation of the image. While different methods have been proposed to extract information from optical images with different spectral bands and resolutions, no method has been proposed to answer questions from Synthetic Aperture Radar (SAR) images. SAR images capture electromagnetic information from the scene, and are less affected by atmospheric conditions, such as clouds. In this work, our objective is to introduce SAR in the RSVQA task, finding the best way to use this modality. In our research, we carry out a study on different pipelines for the task of RSVQA taking into account information from both SAR and optical data. To this purpose, we also present a dataset that allows for the introduction of SAR images in the RSVQA framework. We propose two different models to include the SAR modality. The first one is an end-to-end method in which we add an additional encoder for the SAR modality. In the second approach, we build on a two-stage framework. First, relevant information is extracted from SAR and, optionally, optical data. This information is then translated into natural language to be used in the second step which only relies on a language model to provide the answer. We find that the second pipeline allows us to obtain good results with SAR images alone. We then try various types of fusion methods to use SAR and optical images together, finding that a fusion at the decision level achieves the best results on the proposed dataset. We show that SAR data offers additional information when fused with the optical modality, particularly for questions related to specific land cover classes, such as water areas. },
+  year={2025},
+  publisher={IEEE},
+  arxiv={2501.08131},
+  bibtex_show={true}
+}
+
 @article{leygonie2024can,
   title={Can we detect plant diseases without prior knowledge of their existence?},
   author={Leygonie, Rebecca and Lobry, Sylvain and Wendling, Laurent},
@@ -10,6 +32,7 @@
 Experiments show that our approach outperforms reference approaches such as f-AnoGAN and OCSVM on the GrowliFlower and PlantDoc datasets and has competitive performances on the PlantVillage dataset, while not requiring the prior knowledge on the existence of anomalies.},
   year={2024},
   publisher={Elsevier},
+  url={https://www.sciencedirect.com/science/article/pii/S156984322400548X},
   bibtex_show={true}
 }
 
