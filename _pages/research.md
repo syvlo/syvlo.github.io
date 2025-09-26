@@ -62,13 +62,16 @@ I was involved in the organisation of:
 - PRRS workshop at ICPR 2022
 
 I gave the following tutorials:
+- RSVQA at the IADF school 2025
 - Transformers at the summer school AI & Biology and Genetics 2024
 - Semantic segmentation of remote sensing images at the IADF school 2022
 - *Deep learning for remote sensing* at the Nordic Remote Sensing Conference 2019
 
-## Seminars and keynotes
+## Keynotes
 
 Since 2022:
+- BRGM GEONUM Seminar, Orléans, France, 26/09/2025
+- NuTS-AI workshop, Paris, France, 08/07/2025
 - AMLD conference at EPFL, Lausanne, Switzerland, 12/02/2025
 - MVEO workshop at BMVC, Glasgow, Scotland, 28/11/2024
 - Gestion et Analyse des données Aériennes et Satellitaires (G2AS' 24), Paris, France, 17/04/2024
@@ -81,16 +84,19 @@ Since 2022:
 
 ## PhD students defences
 
-- *Eaxminer* for the PhD defence of Robin Jarry (Université de Montpellier), le 20/09/2024
+- *Eaxminer* for the PhD defence of Sara Al-Emadi (Hamad Bin Khalifa University, Qatar), 03/11/2025
+- *Eaxminer* for the PhD defence of Robin Jarry (Université de Montpellier), 20/09/2024
 
 ## PhD students qualifiers (*CSI* in french)
 
-- Scientific expert for the PhD qualifier of Guillaume Astruc (IMAGINE ENPC), 22/05/2024
-- Scientific expert for the PhD qualifier of Ananthu Aniraj (INRIA), 14/09/2023, 25/06/2024
+- Scientific expert for the PhD qualifier of Pierre Ardoni (Université Bretagne Sud), 30/06/2025
+- Scientific expert for the PhD qualifier of Guillaume Astruc (IMAGINE ENPC), 22/05/2024, 10/04/2025
+- Scientific expert for the PhD qualifier of Ananthu Aniraj (INRIA), 14/09/2023, 25/06/2024, 01/07/2025
 - Scientific expert for the PhD qualifier of Jurrian Doornbos (Wageningen University and Research), 16/01/2023
 - Scientific expert for the PhD qualifier of Ihab Bendidi (Université PSL), 05/01/2023, 21/03/2024
 - Scientific expert for the PhD qualifier of Kun Li (Twente University), 24/03/2022
 
 ## Hiring committee
 
-- External participant to the hiring committee (COS) of ENSAT, Toulouse, France (16/05/2023)
+- Internal expert to the hiring committee (COS) of Université Paris Cité, France, 2025
+- External participant to the hiring committee (COS) of ENSAT, Toulouse, France, 2023
