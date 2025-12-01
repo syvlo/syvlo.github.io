@@ -70,6 +70,7 @@ I gave the following tutorials:
 ## Keynotes
 
 Since 2022:
+- University of Stirling, UK, 21/11/2025
 - BRGM GEONUM Seminar, Orléans, France, 26/09/2025
 - NuTS-AI workshop, Paris, France, 08/07/2025
 - AMLD conference at EPFL, Lausanne, Switzerland, 12/02/2025

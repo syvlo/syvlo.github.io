@@ -18,7 +18,7 @@ nav: true
 	* Supervisors: Sylvain Lobry, Laurent Wendling, Camille Kurtz
 
 ## Researchers
-- Lamia Lahouel (01/02/2025 - Today)
+- Lamia Lahouel (01/02/2025 - 11/11/2025)
 	* Topic : Geospatial AI Agents
 	* University: Université Paris Cité
 	* Funding: European Spatial Agency (ESA)
@@ -45,11 +45,12 @@ nav: true
 	* University: Université Paris Cité
 	* Funding: French National Research Agency (ANR)
 	* Supervisors: Laurent Wendling (director), Camille Kurtz, Sylvain Lobry
-- [Lucrezia Tosato](https://lucreziat.github.io/) (01/10/2022 - Today)
+- 🎓 [Lucrezia Tosato](https://lucreziat.github.io/) (01/10/2022 - 28/11/2025)
 	* Topic: Multilevel fusion for remote sensing visual question answering.
 	* University: Université Paris Cité
 	* Funding: Doctoral school EDITE
 	* Supervisors: Laurent Wendling (director), Flora Weissgerber, Sylvain Lobry
+	* Now with SARMAP
 - 🎓 [Basile Rousse](https://basiler.github.io) (01/12/2021 - 21/11/2024)
 	* Topic: Prediction of demographic indicators from remote sensing images
 	* University: Université Paris Cité
