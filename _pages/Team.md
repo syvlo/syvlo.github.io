@@ -25,6 +25,11 @@ nav: true
 	* Supervisors: Sylvain Lobry
 
 ## PhD students
+- Mohamed Azzaoui (15/12/2025 - Today)
+	* Topic: Recognition and interpretation of urban infrastructure based on multimodal satellite and onboard data
+	* University: Université Paris Cité
+	* Funding: Colas
+	* Supervisors: Laurent Wendling, Sylvain Lobry
 - Nicolas Houdré (01/11/2024 - Today)
 	* Topic: Foundational geo-spatial models for Earth observation: towards multi-modality.
 	* University: Université Paris Cité
