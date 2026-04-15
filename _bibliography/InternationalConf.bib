@@ -1,6 +1,16 @@
 ---
 ---
 
+@inproceedings{CVPR2026,
+  title={RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation},
+  author={Houdré, Nicolas and Marcos, Diego and Riffaud de Turckheim, Hugo and Wendling, Laurent and Kurtz, Camille and Lobry, Sylvain},
+  booktitle={CVPR},
+  year={2026},
+  abstract={Earth observation (EO) data spans a wide range of spatial, spectral, and temporal resolutions, from high-resolution optical imagery to low resolution multispectral products or radar time series. While recent foundation models have improved multimodal integration for learning meaningful representations, they often expect fixed input resolutions or are   based on sensor-specific encoders limiting generalization   across heterogeneous EO modalities. To overcome these   limitations we introduce RAMEN, a resolution-adjustable   multimodal encoder that learns a shared visual representation across EO data in a fully sensor-agnostic manner.   RAMEN treats the modality and spatial and temporal resolutions as key input data features, enabling coherent analysis across modalities within a unified latent space. Its   main methodological contribution is to define spatial resolution as a controllable output parameter, giving users   direct control over the desired level of detail at inference   and allowing explicit trade-offs between spatial precision   and computational cost. We train a single, unified transformer encoder reconstructing masked multimodal EO data   drawn from diverse sources, ensuring generalization across   sensors and resolutions. Once pretrained, RAMEN trans-   fers effectively to both known and unseen sensor configurations and outperforms larger state-of-the-art models on   the community-standard PANGAEA benchmark, containing various multi-sensor and multi-resolution downstream   tasks. Our code and pretrained model are available at   https://github.com/nicolashoudre/RAMEN.},
+  arxiv={2512.05025},
+  bibtex_show={true}
+}
+
 @inproceedings{BMVC25,
   title={Atomizer: Generalizing to new modalities by breaking satellite images down to a set of scalars},
   author={Riffaud de Turckheim, Hugo and  Lobry, Sylvain and Interdonato, Roberto and Marcos, Diego},
@@ -23,7 +33,7 @@
 
 @inproceedings{EV2025,
   title={Visual Question Answering on Multiple Remote Sensing Image Modalities},
-  author={Boussaid, Hichem and  Tosato, Lucrezia and  Weissgerber, Flora and Kurtz, Camille and Wendling, Laurent and Lobry, Sylvain},
+  author={Boussaid, Hichem* and  Tosato, Lucrezia* and  Weissgerber, Flora and Kurtz, Camille and Wendling, Laurent and Lobry, Sylvain},
   booktitle={EarthVision at IEEE/CVF Conference on Computer Vision and Pattern Recognition CVPR},
   year={2025},
   abstract={The extraction of visual features is an essential step in Visual Question Answering (VQA). Building a good visual representation of the analyzed scene is indeed one of the essential keys for the system to be able to correctly understand the latter in order to answer complex questions. In many fields such as remote sensing, the visual feature extraction step could benefit significantly from leveraging different image modalities carrying complementary (spectral, spatial and contextual) information. In this work, we propose to add multiple image modalities to VQA in the particular context of remote sensing, leading to a novel task for the computer vision community. To this end, we introduce a new VQA dataset, named TAMMI Text and Multi-Modal Imagery) with diverse questions on scenes described by three different modalities (very high resolution RGB, multi-spectral imaging data and synthetic aperture radar). Thanks to an automated pipeline, this dataset can be easily extended according to experimental needs. We also propose the MM-RSVQA (Multi-modal Multi-resolution Remote Sensing Visual Question Answering) model, based on VisualBERT, a vision-language transformer, to effectively combine the multiple image modalities and text through a trainable fusion process. A preliminary experimental study shows promising results of our methodology on this challenging dataset, with an accuracy of 65.56% on the targeted VQA task. This pioneering work paves the way for the community to a new multi-modal multi-resolution VQA task that can be applied in other imaging domains (such as medical imaging) where multi-modality can enrich the visual representation of a scene. A subset of the dataset and code is available in supplementary material.},
