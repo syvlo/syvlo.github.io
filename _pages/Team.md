@@ -81,7 +81,11 @@ nav: true
 
 <br>
 
-## BSc & MSc students
+## BSc & MSc students:
+- Thomas Guyonvarch (2026)
+	* Topic: Spatial prediction with VLMs
+	* University: Centrale Lyon
+	* Supervisors: Roger Ferrod, Sylvain Lobry
 - 🎓 Maël Lecene (2025)
 	* Topic: GIS-optical images embeddings
 	* University: Université Paris Cité (BSc)
