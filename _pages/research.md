@@ -31,7 +31,7 @@ Reviews for international journals:
 - Pattern Recognition Letters
 
 Reviews for international conferences:
-- CVPR (outstanding reviewer award 2022)
+- CVPR (outstanding reviewer awards in 2022 and 2026)
 - ICCV
 - ECCV
 - WACV
@@ -55,6 +55,7 @@ Reviews for Grants:
 ## Workshop, special sessions and tutorials
 
 I was involved in the organisation of:
+- PRRS workshop at ICPR 2026
 - Special session on *Multimodal and multitemporal data fusion for urban analysis: Methods, Applications, and Explainability* at JURSE 2025
 - PRRS workshop at ICPR 2024
 - Community contributed session on *Data-centric AI for Geosciences* at IGARSS 2024
@@ -70,6 +71,8 @@ I gave the following tutorials:
 ## Keynotes
 
 Since 2022:
+- APIA Conference at PFIA, Arras, France, 30/06/2026
+- MORSE workshop at CVPR, Denver, USA, 03/06/2026
 - University of Stirling, UK, 21/11/2025
 - BRGM GEONUM Seminar, Orléans, France, 26/09/2025
 - NuTS-AI workshop, Paris, France, 08/07/2025
