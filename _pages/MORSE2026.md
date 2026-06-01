@@ -15,6 +15,7 @@ Here you can find direct access to the article, datasets and models presented du
 
 # Part 2: let's work at the pixel level
 - [Atomizer article](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1058/paper.pdf)
+- [Atomizer model](https://github.com/HugoRdet/Atomizer)
 
 # Part 3: turn this idea into a SoA foundation model
 - [RAMEN article](https://openaccess.thecvf.com/content/CVPR2026/papers/Houdre_RAMEN_Resolution-Adjustable_Multimodal_Encoder_for_Earth_Observation_CVPR_2026_paper.pdf)
@@ -22,4 +23,4 @@ Here you can find direct access to the article, datasets and models presented du
 
 # Part 4: we need GIS data
 - [GroundSet article](https://arxiv.org/pdf/2603.14609)
-- [GroundSet: the dataset](https://huggingface.co/datasets/RogerFerrod/GroundSet)
+- [GroundSet dataset](https://huggingface.co/datasets/RogerFerrod/GroundSet)
