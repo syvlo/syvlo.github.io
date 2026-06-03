@@ -8,7 +8,7 @@ nav: false
 
 Thanks for attending the keynote!
 
-Here you can find direct access to the article, datasets and models presented during the keynote:
+Here you can find direct access to the article, datasets and models presented during the keynote. You can also access the slides that were presented during the workshop on [Youtube](https://www.youtube.com/watch?v=uChZ36NzI5g).
 # Part 1: multi-modality is important
 - [TAMMI article](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/papers/Boussaid_Visual_Question_Answering_on_Multiple_Remote_Sensing_Image_Modalities_CVPRW_2025_paper.pdf)
 - [TAMMI dataset](https://huggingface.co/datasets/HichemBoussaid/TAMMI)
