@@ -1,6 +1,16 @@
 ---
 ---
 
+@article{Briand26,
+  title={Weakly supervised learning for snow cover segmentation in mountainous areas from Sentinel-1 SAR images using interpolated NDSI time series},
+  author={Briand, Swann and  Weissgerber, Flora and Lobry, Sylvain and Idier, Jerome},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  abstract={Snow cover plays a fundamental role in climate regulation and hydrological processes. Existing snow products are mainly based on optical imagery. Yet, snow monitoring remains challenging in mountainous regions due to frequent cloud cover. Synthetic Aperture Radar (SAR) imagery, unaffected by clouds, enables regular wet snow observations. However dry snow remains mostly transparent to SAR. In this study, we propose a fully automated framework that uses optical-derived labels to train a SAR-based model, combining the ability of optical sensors to detect snow with the cloud-penetrating capability of SAR. At inference time, our method only requires SAR images to predict snow maps, encompassing wet and dry snow. A convolutional neural network is trained to predict a binary snow cover map from a Sentinel-1 Single Look Complex (SLC) dual-pol amplitude image and a snow-free reference image. We generate binary training labels from thresholded MODIS Normalized Difference Snow Index (NDSI). Our model is trained in a weakly supervised manner by filling the cloud-induced gaps via temporal interpolation to generate pseudo-labels from sparse observations. We first evaluate the influence of the input SAR channels configuration and show that concatenating the acquisition of the day with the reference image is preferable to more complex preprocessing. Then, we compare the Closest Neighbours Interpolation and the Kalman smoother to fill the cloud-induced gaps in the MODIS NDSI time series. We show that increasing the level of supervision improves the model performance. By removing all the gaps and the noise in the NDSI time series, the Kalman smoother yields the best model performance. However the regularization strength of the Kalman smoother is shown to be critical. To validate our method, we compare it to existing snow products. By comparing with the THEIA L2B Snow product, we show that our method gives comparable results to Sentinel-2 based snow cover maps. The comparison with the Copernicus Wet/Dry Snow product shows that our model can detect both wet and dry snow solely from Sentinel-1 dual-pol amplitude images. Overall, this study highlights how the snow detection capabilities of optical sensor can be transferred to SAR images thanks to a deep learning framework, to ensure a robust monitoring of snow in cloud-prone alpine regions. },
+  year={2026},
+  publisher={Elsevier},
+  bibtex_show={true}
+}
+
 @article{Chappuis25,
   title={Evaluating Language Biases in Remote Sensing Visual Question Answering: The role of spatial attributes, language diversity, and the need for clearer evaluation},
   author={Chappuis, Christel and  Walt, Eliot and Mendez, Vincent and Lobry, Sylvain and Le Saux, Bertrand and Tuia, Devis},

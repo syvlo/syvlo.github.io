@@ -1,6 +1,36 @@
 ---
 ---
 
+@inproceedings{ECCV2026,
+  title={GroundSet: A Cadastral-Grounded Dataset for Spatial Understanding with Vector Data},
+  author={Ferrod, Roger and Lecene, Mael and Sapkota, Krishna and Leifman, George and Silverman, Vered and Beryozkin, Genady and Lobry, Sylvain},
+  booktitle={ECCV},
+  year={2026},
+  abstract={Precise spatial understanding in Earth Observation is essential for translating raw aerial imagery into actionable insights for critical applications like urban planning, environmental monitoring and disaster management. However, Multimodal Large Language Models exhibit critical deficiencies in fine-grained spatial understanding within Remote Sensing, primarily due to a reliance on limited or repurposed legacy datasets. To bridge this gap, we introduce a large-scale dataset grounded in verifiable cadastral vector data, comprising 3.8 million annotated objects across 510k high-resolution images with 135 granular semantic categories. We validate this resource through a comprehensive instruction-tuning benchmark spanning seven spatial reasoning tasks. Our evaluation establishes a robust baseline using a standard LLaVA architecture. We show that while current RS-specialized and commercial models (e.g., Gemini) struggle in zero-shot settings, high-fidelity supervision effectively bridges this gap, enabling standard architectures to master fine-grained spatial grounding without complex architectural modifications.},
+  arxiv={2603.14609},
+  bibtex_show={true}
+}
+
+@inproceedings{ICPR2026IC,
+  title={IC-EO: Interpretable Code-based assistant for Earth Observation},
+  author={Lahouel, Lamia and Lopata, Laurynas and Gruening, Simon and Meoni, Gabriele and Petit, Gaetan and Lobry, Sylvain},
+  booktitle={ICPR},
+  year={2026},
+  abstract={Despite recent advances in computer vision, Earth Observation (EO) analysis remains difficult to perform for the laymen, requiring expert knowledge and technical capabilities. Furthermore, many systems return black-box predictions that are difficult to audit or reproduce. Leveraging recent advances in tool LLMs, this study proposes a conversational, code-generating agent that transforms natural-language queries into executable, auditable Python workflows. The agent operates over a unified easily extendable API for classification, segmentation, detection (oriented bounding boxes), spectral indices, and geospatial operators. With our proposed framework, it is possible to control the results at three levels: (i) tool-level performance on public EO benchmarks; (ii) at the agent-level to understand the capacity to generate valid, hallucination-free code; and (iii) at the task-level on specific use cases. In this work, we select two use-cases of interest: land-composition mapping and post-wildfire damage assessment. The proposed agent outperforms general-purpose LLM/VLM baselines (GPT-4o, LLaVA), achieving 64.2% vs. 51.7% accuracy on land-composition and 50% vs. 0% on post-wildfire analysis, while producing results that are transparent and easy to interpret. By outputting verifiable code, the approach turns EO analysis into a transparent, reproducible process.},
+  arxiv={2602.00117},
+  bibtex_show={true}
+}
+
+@inproceedings{ICPR2026CM,
+  title={Checkmate: interpretable and explainable RSVQA is the endgame},
+  author={Tosato, Lucrezia and Chapuis, Christel and Montariol, Syrielle and Weissgerber, Flora and Lobry, Sylvain and Tuia, Devis},
+  booktitle={ICPR},
+  year={2026},
+  abstract={Remote Sensing Visual Question Answering (RSVQA) presents unique challenges in ensuring that model decisions are both understandable and grounded in visual content. Current models often suffer from a lack of interpretability and explainability, as well as from biases in dataset distributions that lead to shortcut learning. In this work, we tackle these issues by introducing a novel RSVQA dataset, Chessboard, designed to minimize biases through 3'123'253 questions and a balanced answer distribution. Each answer is linked to one or more cells within the image, enabling fine-grained visual reasoning. Building on this dataset, we develop an explainable and interpretable model called Checkmate that identifies the image cells most relevant to its decisions. Through extensive experiments across multiple model architectures, we show that our approach improves transparency and supports more trustworthy decision-making in RSVQA systems.},
+  arxiv={2508.13086},
+  bibtex_show={true}
+}
+
 @inproceedings{CVPR2026,
   title={RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation},
   author={Houdré, Nicolas and Marcos, Diego and Riffaud de Turckheim, Hugo and Wendling, Laurent and Kurtz, Camille and Lobry, Sylvain},
