@@ -33,7 +33,7 @@ Reviews for international journals:
 Reviews for international conferences:
 - CVPR (outstanding reviewer awards in 2022 and 2026)
 - ICCV
-- ECCV
+- ECCV (outstanding reviewer award in 2026)
 - WACV
 - ICPR
 - IGARSS
