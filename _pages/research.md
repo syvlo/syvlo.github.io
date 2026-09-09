@@ -13,7 +13,10 @@ nav: true
 
 ## Editorial service and Peer-review
 
-Guest-editor in the following journals:
+Associate editor in the following journal:
+- IEEE Geoscience and Remote Sensing Letters
+
+Guest editor in the following journals:
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - IEEE Geoscience and Remote Sensing Letters
 
@@ -71,6 +74,7 @@ I gave the following tutorials:
 ## Keynotes
 
 Since 2022:
+- Panel at the TerraBytes workshop at ECCV, Malmo, Sweden, 08/09/2026
 - APIA Conference at PFIA, Arras, France, 30/06/2026
 - MORSE workshop at CVPR, Denver, USA, 03/06/2026
 - University of Stirling, UK, 21/11/2025

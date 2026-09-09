@@ -82,7 +82,11 @@ nav: true
 <br>
 
 ## BSc & MSc students:
-- Thomas Guyonvarch (2026)
+- 🎓 Thanina Siouani (2026)
+	* Topic: Estimation of pollutants from space
+	* University: Paris Dauphine - PSL
+	* Supervisors: Gaëlle Dufour, Sylvain Lobry
+- 🎓 Thomas Guyonvarch (2026)
 	* Topic: Spatial prediction with VLMs
 	* University: Centrale Lyon
 	* Supervisors: Roger Ferrod, Sylvain Lobry
