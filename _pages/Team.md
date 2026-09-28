@@ -6,7 +6,7 @@ nav: true
 ---
 
 ## Post-doctoral students
-- Roger Ferrod (01/04/2025 - )
+- Roger Ferrod (01/04/2025 - 30/09/2026)
 	* Topic : Remote Sensing and GIS
 	* University: Université Paris Cité
 	* Funding: Google
