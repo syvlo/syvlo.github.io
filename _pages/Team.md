@@ -25,11 +25,16 @@ nav: true
 	* Supervisors: Sylvain Lobry
 
 ## PhD students
+- Imen Kaabachi (01/04/2026 - Today)
+	* Topic: Geo Foundation Models
+	* University: Université Paris Cité
+	* Funding: MetaPlanet
+	* Supervisors: Camille Kurtz (director), Anne Puissant (co-director), David Petit, Sylvain Lobry
 - Mohamed Azzaoui (15/12/2025 - Today)
 	* Topic: Recognition and interpretation of urban infrastructure based on multimodal satellite and onboard data
 	* University: Université Paris Cité
 	* Funding: Colas
-	* Supervisors: Laurent Wendling, Sylvain Lobry
+	* Supervisors: Laurent Wendling (Director), Sylvain Lobry
 - Nicolas Houdré (01/11/2024 - Today)
 	* Topic: Foundational geo-spatial models for Earth observation: towards multi-modality.
 	* University: Université Paris Cité
