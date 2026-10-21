@@ -74,6 +74,7 @@ I gave the following tutorials:
 ## Keynotes
 
 Since 2022:
+- AI Week@UPNA, Pamplona, Spain, 21/10/2026
 - Panel at the TerraBytes workshop at ECCV, Malmo, Sweden, 08/09/2026
 - APIA Conference at PFIA, Arras, France, 30/06/2026
 - MORSE workshop at CVPR, Denver, USA, 03/06/2026
