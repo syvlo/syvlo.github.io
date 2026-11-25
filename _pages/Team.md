@@ -60,7 +60,7 @@ nav: true
 	* University: Centrale Nantes
 	* Funding: Région Pays de la Loire / ONERA
 	* Supervisors: Jérôme Idier (director), Flora Weissgerber, Sylvain Lobry
-- Hichem Boussaid (01/10/2023 - Today)
+- 🎓 Hichem Boussaid (01/10/2023 - Today)
 	* Topic: Multimodal remote sensing data and natural language.
 	* University: Université Paris Cité
 	* Funding: French National Research Agency (ANR)
