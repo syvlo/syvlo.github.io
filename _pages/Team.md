@@ -25,6 +25,16 @@ nav: true
 	* Supervisors: Sylvain Lobry
 
 ## PhD students
+- Dorian Grouteau (01/10/2026 - Today)
+	* Topic: World models for underwater environments
+	* University: Université Paris Cité
+	* Funding: Nowbrains
+	* Supervisors: Nicolas Lomenie (Director), Sylvain Lobry
+- Paolo Chevalier (01/10/2026 - Today)
+	* Topic: Pollutant emissions monitoring from Earth Observation
+	* University: Université Paris Cité
+	* Funding: CNES / Académie Spatiale d'Ile de France
+	* Supervisors: Gaëlle Dufour (Director), Sylvain Lobry
 - Imen Kaabachi (01/04/2026 - Today)
 	* Topic: Geo Foundation Models
 	* University: Université Paris Cité
